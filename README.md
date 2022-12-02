@@ -7,3 +7,4 @@ This project's purpose is to create a Tours app in React, which is a simple UI a
 1. CSS
 1. ReactJs
 ## Project Image
+![React-tours-app](https://user-images.githubusercontent.com/93794655/205227936-5c006aed-712c-4c85-9b98-bb532ebd5e1b.png)
